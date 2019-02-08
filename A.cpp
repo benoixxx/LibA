@@ -16,5 +16,5 @@ using namespace std;
 
 void A()
 {
-	cout << "Hello from A" << endl;
+	cout << "Hello from A & cool" << endl;
 }
